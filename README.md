@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2155-find-missing-observations](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2155-find-missing-observations) |
+| [2649-count-total-number-of-colored-cells](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
