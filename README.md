@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0066-plus-one) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0001-two-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
