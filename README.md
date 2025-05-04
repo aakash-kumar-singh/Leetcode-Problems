@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0066-plus-one) |
 | [2155-find-missing-observations](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
