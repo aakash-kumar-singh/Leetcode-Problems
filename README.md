@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2048-build-array-from-permutation](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2155-find-missing-observations](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2155-find-missing-observations) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
