@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
