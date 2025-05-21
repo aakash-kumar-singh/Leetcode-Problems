@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2048-build-array-from-permutation](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
