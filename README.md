@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [2551-apply-operations-to-an-array](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
