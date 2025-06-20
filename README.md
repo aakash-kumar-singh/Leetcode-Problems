@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2155-find-missing-observations](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
