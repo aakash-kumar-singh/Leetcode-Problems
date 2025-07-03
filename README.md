@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
