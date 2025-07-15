@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
 | ------- |
