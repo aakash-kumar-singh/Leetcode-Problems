@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [3396-valid-word](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3396-valid-word) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
 | ------- |
