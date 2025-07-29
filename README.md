@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3194-find-words-containing-character](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3396-valid-word) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
