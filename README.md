@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2155-find-missing-observations](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2155-find-missing-observations) |
+| [2610-closest-prime-numbers-in-range](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0148-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
