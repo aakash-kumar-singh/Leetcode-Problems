@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0940-fruit-into-baskets](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1833-find-the-highest-altitude](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0940-fruit-into-baskets](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
