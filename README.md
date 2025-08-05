@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1833-find-the-highest-altitude](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2048-build-array-from-permutation](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0940-fruit-into-baskets](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
