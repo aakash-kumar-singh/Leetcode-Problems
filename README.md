@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2155-find-missing-observations](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2610-closest-prime-numbers-in-range](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
