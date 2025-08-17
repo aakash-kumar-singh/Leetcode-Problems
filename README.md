@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0940-fruit-into-baskets](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0940-fruit-into-baskets](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1500-count-largest-group](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Merge Sort
 |  |
