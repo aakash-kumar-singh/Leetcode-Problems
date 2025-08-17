@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
