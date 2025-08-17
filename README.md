@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0940-fruit-into-baskets](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0575-distribute-candies](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0940-fruit-into-baskets](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1500-count-largest-group](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
