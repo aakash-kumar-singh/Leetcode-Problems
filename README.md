@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+| [0792-binary-search](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/aakash-kumar-singh/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
